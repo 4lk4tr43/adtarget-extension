@@ -1,0 +1,9 @@
+*.js
+*.map
+
+!src/popup/system.config.js
+
+.idea/
+node_modules/
+bower_components/
+typings/
